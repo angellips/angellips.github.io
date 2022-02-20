@@ -62,7 +62,7 @@ At the moment, all releases are digital only.
 <br/>
 **Purpose/Intent**:
 ```
-    Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art.
+Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art.
 ```
 * Angel Lips has an ongoing series, which is called “SLICEOFLIFE”.
 
@@ -76,7 +76,11 @@ At the moment, all releases are digital only.
 <br/>
 **Purpose/Intent**:
 ```
-    Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth. However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count of other variations. Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take sight of each unique alteration that lights our existence.
+Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth.
+However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a
+solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count
+of other variations. Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take
+sight of each unique alteration that lights our existence.
 ```
 <br/>
 **If interested, please make an auditory interpretation of a color within the samples (or assign a track to a color at random), and send us a DM with this info**:
@@ -87,10 +91,10 @@ At the moment, all releases are digital only.
 
 * We will respond/listen to DMs erratically.
 
-* Artist payment process functions the same as stated in the **Distribution/Payment** section.
+* Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
 
-**Why Angel Lips?**
-
+### Why Angel Lips?
+<br/>
 * We are an experimental label dedicated to fine art.
 
 * [https://angellips.bandcamp.com/music](https://angellips.bandcamp.com/music) <br/><br/>
@@ -107,7 +111,7 @@ At the moment, all releases are digital only.
   * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips. <br/><br/>
 
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
-  * The physical portion of our label is designed to be unprofitable for the label, and profitable for the Artist.
+  * The physical portion of our label is designed to be unprofitable for the label, and profitable for the Artist.<br/>
   * The variables in the above example will be communicated to you prior to release. <br/>
 
   * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists. <br/>
