@@ -28,7 +28,7 @@ At the moment, all releases are digital only.
 
 **Desired Genres**:
 
-* While recognizing that new genres can/will emerge using fragments from the past, and that it is important to provide some guidance, here is a general outline:
+* While recognizing that new genres can/will emerge using fragments from the past, but that it is important to provide some guidance, here is a general outline:
 
       * Noise
       * Granular
@@ -42,7 +42,7 @@ At the moment, all releases are digital only.
 
 **I’m Still Reading; How Do I Submit?**
 
-* You can simply DM us on Twitter: ![Link](https://twitter.com/AngelLipsSound)
+* You can simply DM us on Twitter: [Link](https://twitter.com/AngelLipsSound)
 
 * Use common sense with regard to copyright.
 
@@ -56,10 +56,9 @@ At the moment, all releases are digital only.
 
 * If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not respond or provide feedback on all submissions.
 
-* If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy.
-<br>
+* If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy. <br/><br/>
 
-**Concept 0 - Submissions: SLICEOFLIFE (2021(∞))**
+### Concept 0 - Submissions: SLICEOFLIFE (2021(∞)):
 
 **Purpose/Intent**:
 
@@ -74,7 +73,7 @@ At the moment, all releases are digital only.
 * Artist payment process functions the same as stated in the Distribution/Payment section.
 <br>
 
-**Concept 1 - Submissions: A Collection of Multiple Colors Interpreted by Various Artists for Indeterminate Periods of Time (2021(2))**
+### Concept 1 - Submissions: A Collection of Multiple Colors Interpreted by Various Artists for Indeterminate Periods of Time (2021(2)):
 
 **Purpose/Intent**:
 
@@ -94,29 +93,29 @@ At the moment, all releases are digital only.
 
 * We are an experimental label dedicated to fine art.
 
-* https://angellips.bandcamp.com/music
-<br>
+* [Bandcamp](https://angellips.bandcamp.com/music)
 
-## Angel Lips: Distribution and Payment
 <br>
+## Angel Lips: Distribution and Payment
+
 **Payment:**
 
 * Artists receive 100% of digital sales.
-  * Payment of digital sales will occur during/throughout the month of August, each year.
-<br>
+  * Payment of digital sales will occur during/throughout the month of August, each year. <br/><br/>
+
 * Artists receive 80% of profits from any physical sales (per unit), should such physicals exist.
   * Payment of digital sales will occur during/throughout the month of August, each year.
-  * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips.
-<br>
+  * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips. <br/><br/>
+
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
   * The physical portion of our label is designed to be unprofitable for the label, and profitable for the Artist.
-  * The variables in the above example will be communicated to you prior to release.
-<br>
-  * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists.
-<br>
-  * We have no discount on the “digital discography” price; in the event that we apply a discount, such a percent will not be equal to an amount higher than the in-house derivative value.
-<br>
-  * In simple terms, the ¥3,900 stated above will be the maximum discount on the “digital discography” price; the function of this is to rotate profits away from Angel Lips directly to the Artists.
+  * The variables in the above example will be communicated to you prior to release. <br/><br/>
+
+  * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists. <br/><br/>
+
+  * We have no discount on the “digital discography” price; in the event that we apply a discount, such a percent will not be equal to an amount higher than the in-house derivative value. <br/><br/>
+
+  * In simple terms, the ¥3,900 stated above will be the maximum discount on the “digital discography” price; the function of this is to rotate profits away from Angel Lips directly to the Artists. <br/><br/>
 
 **Digital Distribution (currently testing):**
 
