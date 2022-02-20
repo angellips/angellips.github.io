@@ -1,26 +1,31 @@
 ---
 layout: post
-title: Obscure Shadow - Missing Pieces of Life Unfurled into Openness [AL-SLICEOFLIFE01]
+title: Obscure Shadow - Missing Pieces of Life Unfurled into Openness
 ---
 
 ![Cover Art]({{site.baseurl}}/assets/images/MissingPieces-Cover.jpg)
 
-## Tracklist [トラックリスト]
 
-- Missing Pieces of Life Unfurled into Openness - 20:12
+### Tracklist [トラックリスト]:
+<br/>
+1. Missing Pieces of Life Unfurled into Openness - 20:12 <br/><br/>
 
-## Description [商品説明]
+### Description [商品説明]:
+<br/>
+**Artist links:**
 
-Artist links:
-
-BC: ![Link](lvjdfg.bandcamp.com/album/0)
-SC: ![Link](soundcloud.com/user-328391493)
-Twitter: ![Link](twitter.com/lvj_dfg)
+Twitter: [twitter.com/lvj_dfg](twitter.com/lvj_dfg) <br/>
+Bandcamp: [lvjdfg.bandcamp.com/album/0](lvjdfg.bandcamp.com/album/0) <br/>
+Soundcloud: [soundcloud.com/user-32839149](soundcloud.com/user-328391493)
 
 **Note from Angel Lips**:
 
 Brilliant display of textured tones that render the listener into fields of unknown bliss; opportunities await you, the world awaits you, live in love and look for lines of flight!
 
-## Listen [聞く]
+**Catalog Number:** _AL-SLICEOFLIFE01_ <br/><br/>
 
+### Listen [聞く]:
+<br/>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3335428209/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://angellips.bandcamp.com/album/missing-pieces-of-life-unfurled-into-openness">Missing Pieces of Life Unfurled into Openness by Obscure Shadow</a></iframe>
+
+<br/><br/>

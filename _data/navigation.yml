@@ -1,6 +1,11 @@
-- name: Home
+- name: Albums
   link: /
+
 - name: Submissions
   link: /submissions/
-- name: Text
-  link: /_text/
+
+- name: About
+    link: /about/
+
+# - name: Text
+#  link: /_text/
