@@ -19,6 +19,7 @@ permalink: /submissions/
 At the moment, all releases are digital only.
 
 * We may reach out to you at some point to do a physical release on an unconventional format (i.e., not on cassette, vinyl, CD, MiniDisc)
+
 * If you would like, you could give us eternal permission to do this on your behalf, if such a thing comes into existence.
 
 **Cover Art**:
@@ -56,12 +57,13 @@ At the moment, all releases are digital only.
 * If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not respond or provide feedback on all submissions.
 
 * If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy.
-<br/>
+<br>
+
 **Concept 0 - Submissions: SLICEOFLIFE (2021(∞))**
 
 **Purpose/Intent**:
 
-    `Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art.`
+    Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art.
 
 * Angel Lips has an ongoing series, which is called “SLICEOFLIFE”.
 
@@ -70,12 +72,13 @@ At the moment, all releases are digital only.
 * We will then make-up an Artist name, Album/Track title, and select cover art.
 
 * Artist payment process functions the same as stated in the Distribution/Payment section.
-<br/>
+<br>
+
 **Concept 1 - Submissions: A Collection of Multiple Colors Interpreted by Various Artists for Indeterminate Periods of Time (2021(2))**
 
 **Purpose/Intent**:
 
-    `Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth. However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count of other variations. Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take sight of each unique alteration that lights our existence.`
+    Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth. However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count of other variations. Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take sight of each unique alteration that lights our existence.
 
 **If interested, please make an auditory interpretation of a color within the samples (or assign a track to a color at random), and send us a DM with this info**:
 
@@ -92,26 +95,27 @@ At the moment, all releases are digital only.
 * We are an experimental label dedicated to fine art.
 
 * https://angellips.bandcamp.com/music
-<br/>
+<br>
+
 ## Angel Lips: Distribution and Payment
-<br/>
+<br>
 **Payment:**
 
 * Artists receive 100% of digital sales.
-  * Payment of digital sales will occur during/throughout the month of August, each year. <br>
-
+  * Payment of digital sales will occur during/throughout the month of August, each year.
+<br>
 * Artists receive 80% of profits from any physical sales (per unit), should such physicals exist.
   * Payment of digital sales will occur during/throughout the month of August, each year.
-  * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips.<br>
-
+  * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips.
+<br>
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
   * The physical portion of our label is designed to be unprofitable for the label, and profitable for the Artist.
-  * The variables in the above example will be communicated to you prior to release.<br>
-
-  * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists.<br>
-
-  * We have no discount on the “digital discography” price; in the event that we apply a discount, such a percent will not be equal to an amount higher than the in-house derivative value.<br>
-
+  * The variables in the above example will be communicated to you prior to release.
+<br>
+  * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists.
+<br>
+  * We have no discount on the “digital discography” price; in the event that we apply a discount, such a percent will not be equal to an amount higher than the in-house derivative value.
+<br>
   * In simple terms, the ¥3,900 stated above will be the maximum discount on the “digital discography” price; the function of this is to rotate profits away from Angel Lips directly to the Artists.
 
 **Digital Distribution (currently testing):**
