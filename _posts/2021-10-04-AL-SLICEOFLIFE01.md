@@ -14,9 +14,9 @@ title: Obscure Shadow - Missing Pieces of Life Unfurled into Openness
 <br/>
 **Artist links:**
 
-Twitter: [twitter.com/lvj_dfg](twitter.com/lvj_dfg) <br/>
-Bandcamp: [lvjdfg.bandcamp.com/album/0](lvjdfg.bandcamp.com/album/0) <br/>
-Soundcloud: [soundcloud.com/user-32839149](soundcloud.com/user-328391493)
+Twitter: [twitter.com/lvj_dfg](https://twitter.com/lvj_dfg) <br/>
+Bandcamp: [lvjdfg.bandcamp.com/album/0](https://lvjdfg.bandcamp.com/album/0) <br/>
+Soundcloud: [soundcloud.com/user-32839149](https://soundcloud.com/user-328391493)
 
 **Note from Angel Lips**:
 

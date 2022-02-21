@@ -23,14 +23,14 @@ title: WDE - 黄金の森
 **Recorded, arranged, and produced by:**
 
 * **WDE:**
-  * [Twitter](twitter.com/wde_log) <br/>
-  * [Bandcamp](wetdreamsexciter.bandcamp.com)
+  * [Twitter](https://twitter.com/wde_log)
+  * [Bandcamp](https://wetdreamsexciter.bandcamp.com)<br/><br/>
 
 * **Synth by Niki P:**
-  * [Instagram](instagram.com/beatsbleeps/)
+  * [Instagram](https://instagram.com/beatsbleeps/)<br/><br/>
 
 * **Guitar by Alec Malyshev:**
-  * [Instagram](instagram.com/blackhumourgeneration)
+  * [Instagram](https://instagram.com/blackhumourgeneration)
 
 **Catalog Number:** _AL-CINEMATICCULTURE004_ <br/><br/>
 
