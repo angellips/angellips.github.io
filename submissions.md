@@ -110,7 +110,8 @@ AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
     * Artist name.
     * Track name will be a list of items used. This list may be specific or abstract.
     * Track link via Soundcloud (private w/ download enabled).
-    * _Example_-: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
+
+* _Example_: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
 
 * We will respond/listen to DMs within two weeks.
 
