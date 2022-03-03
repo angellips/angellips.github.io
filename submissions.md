@@ -77,9 +77,12 @@ Documentations of the Other via immediate everydayness. A demonstration of new i
 **Purpose/Intent**:
 ```
 Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth.
+
 However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a
 solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count
-of other variations. Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take
+of other variations.
+
+Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take
 sight of each unique alteration that lights our existence.
 ```
 <br/>
@@ -90,6 +93,26 @@ sight of each unique alteration that lights our existence.
     * Track link via Soundcloud (private w/ download enabled).
 
 * We will respond/listen to DMs erratically.
+
+* Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
+
+### Concept 2 - : AL-OBJET-A∞
+<br/>
+**Purpose/Intent**:
+```
+After the end of music, there is only the loop of unattainable desire; what will satisfy, and for how long?
+
+AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
+```
+<br/>
+**Make a recording (at least 10 minutes long) of different objects, then send us a DM with the following**:
+
+    * Artist name.
+    * Track name will be a list of items used. This list may be specific or abstract.
+    * Track link via Soundcloud (private w/ download enabled).
+    * _Example_-: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
+
+* We will respond/listen to DMs within two weeks.
 
 * Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
 
@@ -128,4 +151,31 @@ sight of each unique alteration that lights our existence.
 
 * That said, we are currently testing digital distro services in an attempt to provide that to Artists. The Artist payment model for this has been devised in a two-pronged manner that would provide an initial recuperation of up-front costs by Angel Lips (on a per release basis), followed by a lessening of our percentage cut in order to maximize Artist payment while simultaneously providing some compensation for the labor cost of Angel Lips.
 
-* If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. It is likely that digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist.
+* If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. It is likely that digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
+
+## Circle Dot Space
+<br/>
+
+In progress.
+
+<!---
+
+**Purpose/Intent**:
+```
+After the end of music, there is only the loop of unattainable desire; what will satisfy, and for how long?
+
+AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
+```
+<br/>
+**Make a recording (at least 10 minutes long) of different objects, then send us a DM with the following**:
+
+    * Artist name.
+    * Track name will be a list of items used. This list may be specific or abstract.
+    * Track link via Soundcloud (private w/ download enabled).
+    * _Example_-: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
+
+* We will respond/listen to DMs within two weeks.
+
+* Artist payment process functions the same as stated in the **Distribution/Payment** section.
+
+-->
