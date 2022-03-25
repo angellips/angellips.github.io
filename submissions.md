@@ -31,13 +31,13 @@ At the moment, all releases are digital only.
 * While recognizing that new genres can/will emerge using fragments from the past, but that it is important to provide some guidance, here is a general outline:
 
       * Noise
-      * Granular
-      * Field Recording
       * Breakcore
+      * Field Recording
+      * Granular
       * Ambient
       * World
       * Alt-Idol
-      * Dreampunk (read: Ghost Tech)
+      * Vocaloid
       * "Experimental"    
 
 **I’m Still Reading; How Do I Submit?**
@@ -54,7 +54,7 @@ At the moment, all releases are digital only.
       * SOCIAL LINK(S) (IF DESIRED)
       * LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
 
-* If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not respond or provide feedback on all submissions.
+* If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not promise a response or feedback on all submissions, we will try.
 
 * If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy. <br/><br/>
 
@@ -135,14 +135,10 @@ AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
   * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips. <br/><br/>
 
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
-  * The physical portion of our label is designed to be unprofitable for the label, and profitable for the Artist.<br/>
+  * The physical portion of our label is somewhat designed to be unprofitable for the label, and profitable for the Artist.<br/>
   * The variables in the above example will be communicated to you prior to release. <br/>
 
-  * In the event that a “digital discography” is purchased by a consumer, the amount of the purchase, subtracted by the total amount of purchase price derived from albums created in-house (¥3,900 as of writing), will be divided amongst the Artists. <br/>
-
-  * We have no discount on the “digital discography” price; in the event that we apply a discount, such a percent will not be equal to an amount higher than the in-house derivative value. <br/>
-
-  * In simple terms, the ¥3,900 stated above will be the maximum discount on the “digital discography” price; the function of this is to rotate profits away from Angel Lips directly to the Artists. <br/><br/>
+* Sales of the "digital discography" option on Bandcamp will be split equally between all artists with a set price on their album. Any discount on the "digital discography" will be determined by Angel Lips. <br/><br/>
 
 **Digital Distribution (currently testing):**
 
@@ -152,12 +148,13 @@ AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
 
 * That said, we are currently testing digital distro services in an attempt to provide that to Artists. The Artist payment model for this has been devised in a two-pronged manner that would provide an initial recuperation of up-front costs by Angel Lips (on a per release basis), followed by a lessening of our percentage cut in order to maximize Artist payment while simultaneously providing some compensation for the labor cost of Angel Lips.
 
-* If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. It is likely that digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
+* If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
 
 ## Circle Dot Space
 <br/>
 
 In progress.
+
 
 <!---
 
