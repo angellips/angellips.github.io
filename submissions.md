@@ -18,7 +18,7 @@ permalink: /submissions/
 
 At the moment, all releases are digital only.
 
-* We may reach out to you at some point to do a physical release on an unconventional format (i.e., not on cassette, vinyl, CD, MiniDisc)
+* We may reach out to you at some point to do a physical release.
 
 * If you would like, you could give us eternal permission to do this on your behalf, if such a thing comes into existence.
 
@@ -136,7 +136,7 @@ AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
 
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
   * The physical portion of our label is somewhat designed to be unprofitable for the label, and profitable for the Artist.<br/>
-  * The variables in the above example will be communicated to you prior to release. <br/>
+  * The variables in the above example will be communicated to you prior to release. <br/><br/>
 
 * Sales of the "digital discography" option on Bandcamp will be split equally between all artists with a set price on their album. Any discount on the "digital discography" will be determined by Angel Lips. <br/><br/>
 
@@ -151,29 +151,10 @@ AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
 * If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
 
 ## Circle Dot Space
-<br/>
 
 In progress.
 
 
 <!---
-
-**Purpose/Intent**:
-```
-After the end of music, there is only the loop of unattainable desire; what will satisfy, and for how long?
-
-AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
-```
-<br/>
-**Make a recording (at least 10 minutes long) of different objects, then send us a DM with the following**:
-
-    * Artist name.
-    * Track name will be a list of items used. This list may be specific or abstract.
-    * Track link via Soundcloud (private w/ download enabled).
-    * _Example_-: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
-
-* We will respond/listen to DMs within two weeks.
-
-* Artist payment process functions the same as stated in the **Distribution/Payment** section.
 
 -->

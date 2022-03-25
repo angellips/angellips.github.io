@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Angel Lips
-
 We hope to share interesting sounds with you, or to share your interesting sounds with the world.
 
-We are a record label founded in the United States and currently based out of Tokyo. We are ran by the artist sdg; their sound has appeared in various locations under various aliases:
+We are a record label founded in the United States and currently based out of Tokyo. We are ran by the artist sdg; their sound has appeared in various locations under various aliases: <br/><br/>
 
 **Labels:**
 
