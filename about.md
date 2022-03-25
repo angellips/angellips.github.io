@@ -8,11 +8,15 @@ We hope to share interesting sounds with you, or to share your interesting sound
 
 We are a record label founded in the United States and currently based out of Tokyo.
 
+--
+
 **You can find work released via Angel Lips in several locations:**
 
 Youtube: [https://www.youtube.com/channel/UCdB2WsKn_7iRWE77MZLyC4Q/videos](https://www.youtube.com/channel/UCdB2WsKn_7iRWE77MZLyC4Q/videos) <br/>
 Bandcamp: [https://angellips.bandcamp.com/music](https://angellips.bandcamp.com/music) <br/>
-Soundcloud: [https://soundcloud.com/angellipssound](https://soundcloud.com/angellipssound)<br/><br/>
+Soundcloud: [https://soundcloud.com/angellipssound](https://soundcloud.com/angellipssound)
+
+--
 
 We are ran by the artist sdg; their sound has appeared in various locations under various aliases: <br/><br/>
 

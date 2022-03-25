@@ -6,8 +6,8 @@ title: WDE - 黄金の森
 ![Cover Art]({{site.baseurl}}/assets/images/黄金の森-Cover.jpg)
 
 
-### Tracklist [トラックリスト]:
-<br/>
+### __Tracklist [トラックリスト]:__
+
 1. 黄金の森 - 04:15
 2. 夕映え - 01:50
 3. 浮き橋 - 07:20
@@ -16,8 +16,8 @@ title: WDE - 黄金の森
 6. あばら家 - 03:43
 7. ミュートキャプテン - 04:01 <br/><br/>
 
-### Description [商品説明]:
-<br/>
+### __Description [商品説明]:__
+
 私たちは、あらゆる情報を貪欲に吸収しています。アクセスできないとき、私たちは禁断症状を経験します。私たちは、知識崇拝を建前にしています。古代の神のように崇拝しているのです。知識はエロい。知識は性である。
 
 **Recorded, arranged, and produced by:**
@@ -34,14 +34,14 @@ title: WDE - 黄金の森
 
 **Catalog Number:** _AL-CINEMATICCULTURE004_ <br/><br/>
 
-### Listen [聞く]:
-<br/>
+### __Listen [聞く]:__
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2495175046/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://angellips.bandcamp.com/album/the-golden-forest">黄金の森 ｢The Golden Forest｣ by WDE</a></iframe>
 
 <br/><br/>
 
-### Spotify:
-<br/>
+### __Spotify:__
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2C3LqDZYuWHeBldWoAvGWf?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <br/><br/>
