@@ -56,7 +56,7 @@ At the moment, all releases are digital only.
 
 * If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not promise a response or feedback on all submissions, we will try.
 
-* If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy. <br/><br/>
+* If accepted, we will send you a message via DM inquiring if you would still like to release with us; we will also inform you of the release date. Generally speaking, we will seek to avoid releasing on “Bandcamp Day”, as it is easy for releases on smaller labels to get lost in the frenzy. That said, if you _would_ like us to release on Bandcamp Day just let us know and we will make that happen. <br/><br/>
 
 ### Concept 0 - Submissions: SLICEOFLIFE (2021(∞)):
 <br/>
