@@ -38,7 +38,7 @@ At the moment, all releases are digital only.
     * World
     * Alt-Idol
     * Vocaloid
-      * "Experimental"    
+    * "Experimental"    
 
 **I’m Still Reading; How Do I Submit?**
 
@@ -52,7 +52,7 @@ At the moment, all releases are digital only.
     * ARTIST NAME
     * DESIRED PRICE FOR DIGITAL RELEASE (OR “ASSIGN”)
     * SOCIAL LINK(S) (IF DESIRED)
-    * LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
+    * LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled) <br/><br/>
 
 * If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not promise a response or feedback on all submissions, we will try.
 
@@ -60,8 +60,6 @@ At the moment, all releases are digital only.
 
 ### Concept 0 - Submissions: SLICEOFLIFE (2021(∞)):
 <br/>
-**Purpose/Intent**:
-
 **_Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art._**
 
 * Angel Lips has an ongoing series, which is called “SLICEOFLIFE”.
@@ -74,23 +72,21 @@ At the moment, all releases are digital only.
 
 ### Concept 1 - Submissions: A Collection of Multiple Colors Interpreted by Various Artists for Indeterminate Periods of Time (2021(2)):
 <br/>
-**Purpose/Intent**:
-```
-Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth.
+**_Colors are often considered in an amalgamated manner, which all can understand: “green”, “red”, “blue”, “orange”, and so forth._**
 
-However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a
-solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count
-of other variations.
+**_However, despite our frequent desire to simplify, it is equally known that each color we encounter can be approached as a_**
+**_solitary microcosm; it is here we encounter such concepts as “neon pink”, “baby blue”, “canary yellow”, and an innumerable count_**
+**_of other variations._**
 
-Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take
-sight of each unique alteration that lights our existence.
-```
+**_Therefore, rather than living a life which witnesses only an indistinct blur, we have instead chosen to take_**
+**_sight of each unique alteration that lights our existence._**
+
 <br/>
 **If interested, please make an auditory interpretation of a color within the samples (or assign a track to a color at random), and send us a DM with this info**:
 
-    * Artist name.
-    * Chosen color sample.
-    * Track link via Soundcloud (private w/ download enabled).
+  * Artist name.
+  * Chosen color sample.
+  * Track link via Soundcloud (private w/ download enabled).
 
 * We will respond/listen to DMs erratically.
 
@@ -98,18 +94,16 @@ sight of each unique alteration that lights our existence.
 
 ### Concept 2 - : AL-OBJET-A∞
 <br/>
-**Purpose/Intent**:
-```
-After the end of music, there is only the loop of unattainable desire; what will satisfy, and for how long?
+**_After the end of music, there is only the loop of unattainable desire; what will satisfy, and for how long?_**
 
-AL-OBJET-A∞ is the deconstruction of listener desire into pure object.
-```
+**_AL-OBJET-A∞ is the deconstruction of listener desire into pure object._**
+
 <br/>
 **Make a recording (at least 10 minutes long) of different objects, then send us a DM with the following**:
 
-    * Artist name.
-    * Track name will be a list of items used. This list may be specific or abstract.
-    * Track link via Soundcloud (private w/ download enabled).
+  * Artist name.
+  * Track name will be a list of items used. This list may be specific or abstract.
+  * Track link via Soundcloud (private w/ download enabled).
 
 * _Example_: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
 
