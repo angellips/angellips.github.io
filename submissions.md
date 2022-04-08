@@ -30,14 +30,14 @@ At the moment, all releases are digital only.
 
 * While recognizing that new genres can/will emerge using fragments from the past, but that it is important to provide some guidance, here is a general outline:
 
-      * Noise
-      * Breakcore
-      * Field Recording
-      * Granular
-      * Ambient
-      * World
-      * Alt-Idol
-      * Vocaloid
+    * Noise
+    * Breakcore
+    * Field Recording
+    * Granular
+    * Ambient
+    * World
+    * Alt-Idol
+    * Vocaloid
       * "Experimental"    
 
 **I’m Still Reading; How Do I Submit?**
@@ -48,11 +48,11 @@ At the moment, all releases are digital only.
 
 * Preferred formatting of submittal:
 
-      * ALBUM NAME
-      * ARTIST NAME
-      * DESIRED PRICE FOR DIGITAL RELEASE (OR “ASSIGN”)
-      * SOCIAL LINK(S) (IF DESIRED)
-      * LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
+    * ALBUM NAME
+    * ARTIST NAME
+    * DESIRED PRICE FOR DIGITAL RELEASE (OR “ASSIGN”)
+    * SOCIAL LINK(S) (IF DESIRED)
+    * LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
 
 * If accepted, we will respond to your submission within two weeks. If you do not hear back from us in two weeks, it means we are not going to release your work; unfortunately we can not promise a response or feedback on all submissions, we will try.
 
@@ -61,9 +61,9 @@ At the moment, all releases are digital only.
 ### Concept 0 - Submissions: SLICEOFLIFE (2021(∞)):
 <br/>
 **Purpose/Intent**:
-```
-Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art.
-```
+
+**_Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art._**
+
 * Angel Lips has an ongoing series, which is called “SLICEOFLIFE”.
 
 * For submissions, please hit the record button on your phone for 20 minutes, then send us the raw file.
