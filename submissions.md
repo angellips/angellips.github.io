@@ -152,9 +152,7 @@ At the moment, all releases are digital only.
 * ARTIST NAME
 * DESIRED PRICE FOR DIGITAL RELEASE (OR “ASSIGN”)
 * SOCIAL LINK(S) (IF DESIRED)
-* LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
-
-<br/><br/>
+* LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled) <br/><br/>
 
 ## Angel Lips: Distribution and Payment
 <br/>
