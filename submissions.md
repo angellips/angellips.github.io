@@ -130,7 +130,7 @@ At the moment, all releases are digital only.
   * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips. <br/><br/>
 
 * For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
-  * The physical portion of our label is somewhat designed to be unprofitable for the label, and profitable for the Artist.<br/>
+  * In other words, if we do a "fire sale" or heavily discount the physical release for some reason, it will only be unprofitable for Angel Lips, not the Artist.<br/>
   * The variables in the above example will be communicated to you prior to release. <br/><br/>
 
 * Sales of the "digital discography" option on Bandcamp will be split equally between all artists with a set price on their album. Any discount on the "digital discography" will be determined by Angel Lips. <br/><br/>
@@ -146,8 +146,17 @@ At the moment, all releases are digital only.
 * If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
 
 ## Circle Dot Space
+<br/>
+**_Pseudo-Imprint of Angel Lips. Immaculately clean or noisy._**
 
-In progress.
+
+* Circle Dot Space is looking for ambient, granular, or noise. Variants on those genres are perfectly acceptable.
+
+* Pseudo-Imprint? In other words, while independent as far as determining what submissions to release, the work will still be released via Angel Lips, and all terms in on page still apply.
+
+* The general submission guidelines mentioned elsewhere on this page apply; just specify that you are submitting to Circle Dot Space.
+
+  * Even if you do not specify, it is possible that we assign your work to this Pseudo-Imprint.
 
 
 <!---
