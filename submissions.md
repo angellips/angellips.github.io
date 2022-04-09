@@ -118,12 +118,6 @@ At the moment, all releases are digital only.
 
 * Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
 
-### Why Angel Lips?
-<br/>
-* We are an experimental label dedicated to fine art.
-
-* [https://angellips.bandcamp.com/music](https://angellips.bandcamp.com/music) <br/><br/>
-
 ## Angel Lips: Distribution and Payment
 <br/>
 **Payment:**
