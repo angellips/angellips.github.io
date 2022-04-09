@@ -28,10 +28,10 @@ At the moment, all releases are digital only.
 
 * The cover art will be randomly generated based upon concept type; see below for examples:
 
-  * [SLICE OF LIFE](https://raw.githubusercontent.com/angellips/angelhair/main/Code/SliceOfLife_Covers/3.09995936E8.jpg)
-  * [A Collection of Multiple Colors Interpreted by Various Artists...](https://raw.githubusercontent.com/angellips/angelhair/main/Code/VariousColors_Covers/4.78788544E8.jpg)
-  * [AL-OBJET-A∞](https://raw.githubusercontent.com/angellips/angelhair/main/Code/ObjetA_Covers/2.5992394E7.jpg)
-  * [Circle Dot Space](https://raw.githubusercontent.com/angellips/angelhair/main/Code/CircleDotSpace_Covers/2.1102964E7.jpg)
+  * [SLICE OF LIFE](https://raw.githubusercontent.com/angellips/angelhair/main/Code/SliceOfLife_Covers/4.84945248E8.jpg)
+  * [A Collection of Multiple Colors Interpreted by Various Artists...](https://raw.githubusercontent.com/angellips/angelhair/main/Code/VariousColors_Covers/9.5412102E8.jpg)
+  * [AL-OBJET-A∞](https://raw.githubusercontent.com/angellips/angelhair/main/Code/ObjetA_Covers/2.10522352E8.jpg)
+  * [Circle Dot Space](https://raw.githubusercontent.com/angellips/angelhair/main/Code/CircleDotSpace_Covers/4.65089984E8.jpg)
 
 **Desired Genres**:
 
@@ -70,7 +70,6 @@ At the moment, all releases are digital only.
 **_Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art._**
 
 <br/>
-
 **If interested, please see instructions below**:
 
 * For submissions, please hit the record button on your phone for 20 minutes (slightly shorter or longer is fine).
@@ -132,17 +131,12 @@ At the moment, all releases are digital only.
 
 ## Concept 3 - Submissions: Circle Dot Space (2022(4))
 <br/>
-**_Pseudo-Imprint of Angel Lips. Immaculately clean or noisy._**
+**_Immaculately clean or noisy._**
 
 <br/>
-
 **If interested, please see information below**:
 
 * Circle Dot Space is specifically looking for ambient, granular, or noise. Variants on those genres are perfectly acceptable.
-
-* Pseudo-Imprint? In other words, while independent as far as determining what submissions to release, the work will still be released via Angel Lips, and all terms in on page still apply.
-
-* Even if you do not specify, it is possible that we assign your work to this Pseudo-Imprint.
 
 * This concept will be open for submissions through at least the year 2024.
 
@@ -165,7 +159,7 @@ At the moment, all releases are digital only.
   * Payment of digital sales will occur during/throughout the month of August, each year.
   * Physical pricing will vary at the discretion of Angel Lips; if the consumer side price does not net profit for Angel Lips, the difference between that loss and the consumer side price, plus an additional 50%, will be paid to the Artist by Angel Lips. <br/><br/>
 
-* For example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
+* Example: presume the physical unit cost is $4, and Angel Lips sells it for $2 to the customer. You will receive $3. The higher the loss we sell for, the more money goes to the Artist.
   * In other words, if we do a "fire sale" or heavily discount the physical release for some reason, it will only be unprofitable for Angel Lips, not the Artist.<br/>
   * The variables in the above example will be communicated to you prior to release. <br/><br/>
 
@@ -173,13 +167,13 @@ At the moment, all releases are digital only.
 
 **Digital Distribution (currently testing):**
 
-* We encourage Artists to manage their own digital distribution; and, make whatever artistic changes they feel are appropriate in order to ensure distribution can occur.
+* We encourage Artists to manage their own digital distribution; and, to make whatever artistic changes they feel are appropriate in order to ensure distribution can occur.
 
 * Digital distribution is, in our opinion, a faulty system as it currently stands, and we believe that the major services subject artists to unnecessary creative restrictions solely in order to increase their profits, as well as to cater towards unreasonable interpretations of copyright law (i.e., interpretations which heavily skew towards oppressing artistic expression).
 
-* That said, we are currently testing digital distro services in an attempt to provide that to Artists. The Artist payment model for this has been devised in a two-pronged manner that would provide an initial recuperation of up-front costs by Angel Lips (on a per release basis), followed by a lessening of our percentage cut in order to maximize Artist payment while simultaneously providing some compensation for the labor cost of Angel Lips.
+* That said, we understand the importance and are currently testing digital distro services in an attempt to provide that to Artists.
 
-* If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
+* If the aforementioned internal testing period is successful, the manner in which it functions with Artists will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. <br/><br/>
 
 <!---
 
