@@ -26,6 +26,13 @@ At the moment, all releases are digital only.
 
 * We will provide cover art. We will not accept suggestions. This is to ensure aesthetic vision of the label; or rather, museum.
 
+* The cover art will be randomly generated based upon concept type; see below for examples:
+
+  * [SLICE OF LIFE](https://raw.githubusercontent.com/angellips/angelhair/main/Code/SliceOfLife_Covers/3.09995936E8.jpg)
+  * [A Collection of Multiple Colors Interpreted by Various Artists...](https://raw.githubusercontent.com/angellips/angelhair/main/Code/VariousColors_Covers/4.78788544E8.jpg)
+  * [AL-OBJET-A∞](https://raw.githubusercontent.com/angellips/angelhair/main/Code/ObjetA_Covers/2.5992394E7.jpg)
+  * [Circle Dot Space](https://raw.githubusercontent.com/angellips/angelhair/main/Code/CircleDotSpace_Covers/2.1102964E7.jpg)
+
 **Desired Genres**:
 
 * While recognizing that new genres can/will emerge using fragments from the past, but that it is important to provide some guidance, here is a general outline:
