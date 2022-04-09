@@ -12,7 +12,7 @@ permalink: /submissions/
 
 * These guidelines are subject to change at the discretion of Angel Lips at any time. It is our intention to keep this page updated as frequently as is humanly possible.
 
-* If after reading, you think Angel Lips is a good fit for your art, please see here for more info: Distribution/Payment.
+* If after reading, you think Angel Lips is a good fit for your art, please see here for more info: **Distribution/Payment**.
 
 **Release Style**:
 
@@ -69,13 +69,19 @@ At the moment, all releases are digital only.
 <br/>
 **_Documentations of the Other via immediate everydayness. A demonstration of new isolationism. Post-Art._**
 
-* Angel Lips has an ongoing series, which is called “SLICEOFLIFE”.
+<br/>
 
-* For submissions, please hit the record button on your phone for 20 minutes, then send us the raw file.
+**If interested, please see instructions below**:
+
+* For submissions, please hit the record button on your phone for 20 minutes (slightly shorter or longer is fine).
+
+* Upload raw file to Soundcloud and send us a link (private w/ download enabled).
 
 * We will then make-up an Artist name, Album/Track title, and select cover art.
 
-* Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
+* Artist payment process functions the same as stated in the **Distribution/Payment** section.
+
+* This concept will be open for submissions indefinitely. <br/><br/>
 
 ### Concept 1 - Submissions: A Collection of Multiple Colors Interpreted by Various Artists for Indeterminate Periods of Time (2021(2)):
 <br/>
@@ -92,12 +98,14 @@ At the moment, all releases are digital only.
 **If interested, please make an auditory interpretation of a color within the samples (or assign a track to a color at random), and send us a DM with this info**:
 
   * Artist name.
-  * Chosen color sample.
+  * Chosen color [sample](https://github.com/angellips/angelhair/tree/main/Cover-Art/Various%20Colors).
   * Track link via Soundcloud (private w/ download enabled).
 
 * We will respond/listen to DMs erratically.
 
-* Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
+* Artist payment process functions the same as stated in the **Distribution/Payment** section.
+
+* This concept will be closed for submissions at the end of 2022. <br/><br/>
 
 ### Concept 2 - : AL-OBJET-A∞
 <br/>
@@ -106,17 +114,47 @@ At the moment, all releases are digital only.
 **_AL-OBJET-A∞ is the deconstruction of listener desire into pure object._**
 
 <br/>
-**Make a recording (at least 10 minutes long) of different objects, then send us a DM with the following**:
+**Make a recording of different objects, then send us a DM with the following**:
 
   * Artist name.
-  * Track name will be a list of items used. This list may be specific or abstract.
+  * Track name that is a list of items used. This list may be specific or abstract.
   * Track link via Soundcloud (private w/ download enabled).
 
 * _Example_: [fan cardboard scissor stickynote notecard person chair](https://angellips.bandcamp.com/album/fan-cardboard-scissor-stickynote-notecard-person-chair)
 
+* Please make the track length at least five minutes long.
+
 * We will respond/listen to DMs within two weeks.
 
-* Artist payment process functions the same as stated in the **Distribution/Payment** section. <br/><br/>
+* Artist payment process functions the same as stated in the **Distribution/Payment** section.
+
+* This concept will be open for submissions indefinitely. <br/><br/>
+
+## Concept 3 - Submissions: Circle Dot Space (2022(4))
+<br/>
+**_Pseudo-Imprint of Angel Lips. Immaculately clean or noisy._**
+
+<br/>
+
+**If interested, please see information below**:
+
+* Circle Dot Space is specifically looking for ambient, granular, or noise. Variants on those genres are perfectly acceptable.
+
+* Pseudo-Imprint? In other words, while independent as far as determining what submissions to release, the work will still be released via Angel Lips, and all terms in on page still apply.
+
+* Even if you do not specify, it is possible that we assign your work to this Pseudo-Imprint.
+
+* This concept will be open for submissions through at least the year 2024.
+
+**Please include the following in your submission**:
+
+* ALBUM NAME
+* ARTIST NAME
+* DESIRED PRICE FOR DIGITAL RELEASE (OR “ASSIGN”)
+* SOCIAL LINK(S) (IF DESIRED)
+* LINK TO PRIVATE SOUNDCLOUD SO THAT WE CAN LISTEN (please ensure downloads are enabled)
+
+<br/><br/>
 
 ## Angel Lips: Distribution and Payment
 <br/>
@@ -144,20 +182,6 @@ At the moment, all releases are digital only.
 * That said, we are currently testing digital distro services in an attempt to provide that to Artists. The Artist payment model for this has been devised in a two-pronged manner that would provide an initial recuperation of up-front costs by Angel Lips (on a per release basis), followed by a lessening of our percentage cut in order to maximize Artist payment while simultaneously providing some compensation for the labor cost of Angel Lips.
 
 * If the aforementioned plan is still feasible after our internal testing period, the manner in which it functions will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. We can not guarantee that digital distribution will ever exist. <br/><br/>
-
-## Circle Dot Space
-<br/>
-**_Pseudo-Imprint of Angel Lips. Immaculately clean or noisy._**
-
-
-* Circle Dot Space is looking for ambient, granular, or noise. Variants on those genres are perfectly acceptable.
-
-* Pseudo-Imprint? In other words, while independent as far as determining what submissions to release, the work will still be released via Angel Lips, and all terms in on page still apply.
-
-* The general submission guidelines mentioned elsewhere on this page apply; just specify that you are submitting to Circle Dot Space.
-
-  * Even if you do not specify, it is possible that we assign your work to this Pseudo-Imprint.
-
 
 <!---
 
