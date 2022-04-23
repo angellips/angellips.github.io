@@ -171,9 +171,7 @@ At the moment, all releases are digital only.
 
 * Digital distribution is, in our opinion, a faulty system as it currently stands, and we believe that the major services subject artists to unnecessary creative restrictions solely in order to increase their profits, as well as to cater towards unreasonable interpretations of copyright law (i.e., interpretations which heavily skew towards oppressing artistic expression).
 
-* That said, we understand the importance and are currently testing digital distro services in an attempt to provide that to Artists.
-
-* If the aforementioned internal testing period is successful, the manner in which it functions with Artists will be presented in these public guidelines, and Artists will be reached out to individually to determine their interest. Digital distro with Angel Lips will always be an opt-in system. <br/><br/>
+* Artists will be reached out to individually to determine their interest in digital distribution through Angel Lips. Digital distro with Angel Lips will always be an opt-in system. <br/><br/>
 
 <!---
 
